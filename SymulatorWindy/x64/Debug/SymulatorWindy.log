@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\kajet\source\repos\SymulatorWindy\logikaWindy.h(54,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\kajet\source\repos\SymulatorWindy\main.cpp(48,53): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\kajet\source\repos\SymulatorWindy\main.cpp(58,89): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\kajet\source\repos\SymulatorWindy\main.cpp(58,60): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\kajet\source\repos\SymulatorWindy\main.cpp(114,17): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  SymulatorWindy.vcxproj -> C:\Users\kajet\source\repos\SymulatorWindy\x64\Debug\SymulatorWindy.exe
