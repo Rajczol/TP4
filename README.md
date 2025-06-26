@@ -1,7 +1,7 @@
 ﻿**Projekt nr 4, zadanie nr 3**
 
 **Symulacja Windy**
-# -----
+-----
 ## **Autorzy projektu:**
 ### **Kajetan Rajczyk 203627,**
 ### **Adrian Protasiuk 203374**
